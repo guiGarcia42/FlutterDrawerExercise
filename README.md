@@ -1,3 +1,3 @@
-# checkpoint1
+# FlutterExercise
 
-A new Flutter project exercise.
+A new Flutter project practicing using Drawer and ListView Widgets.
